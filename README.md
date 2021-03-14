@@ -9,4 +9,6 @@ Run the command ***pip install -r requirements.txt*** to get the necessary depen
 * Execute the command: ***python main.py***.
 On running the code for the first time, the pipeline will first download the model (~1.4 GB) and then you will see the summaries of the documents in a sequential manner being generated in your terminal/command prompt.
 
-![1](https://user-images.githubusercontent.com/29462447/111086545-9e978d00-8542-11eb-839e-0d69d54b6874.png)
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/111086545-9e978d00-8542-11eb-839e-0d69d54b6874.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/111086545-9e978d00-8542-11eb-839e-0d69d54b6874.png"/> 
+</kbd>
