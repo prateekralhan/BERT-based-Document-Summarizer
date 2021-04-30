@@ -1,5 +1,5 @@
 # BERT based Document Summarizer 📑📝
-### A multi document summarizer CLI for getting the synposis of documents(PDFs/word documents/text files).
+### A multi document summarizer CLI for getting the synopsis of documents(PDFs/word documents/text files).
 
 ## Installation:
 Run the command ***pip install -r requirements.txt*** to get the necessary dependencies installed in your system.
