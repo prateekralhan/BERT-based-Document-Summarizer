@@ -1,4 +1,5 @@
-# BERT based Document Summarizer 📑📝
+# BERT based Document Summarizer 📑📝 
+[![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) 
 ### A multi document summarizer CLI for getting the synopsis of documents(PDFs/word documents/text files).
 
 ## Installation:
